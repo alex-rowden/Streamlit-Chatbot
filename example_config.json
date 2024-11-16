@@ -1,0 +1,5 @@
+{
+    "api-key": "openai_key.priv",
+    "__key-comment": "Key can be specified directly or as a path to a plain-text file.",
+    "model": "gpt-4o mini"
+}
